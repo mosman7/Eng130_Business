@@ -57,5 +57,5 @@ Your elevator pitch should be:
 -Be persuasive - use hand gestures and smile
 -PRACTICE
 
-
-###SDLC DevOps lifecycle
+### SDLC 
+![](Images/SDLC.png)
