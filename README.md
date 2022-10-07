@@ -29,7 +29,7 @@ Head to https://www.jetbrains.com/pycharm/download/#section=windows and download
 How to add a variable to your path
 
 
-###What is DevOps
+### What is DevOps
 DevOps is a set of practices that combines software development and IT operations. 
 It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. 
 DevOps is complementary with Agile software
@@ -40,7 +40,7 @@ DevOps is complementary with Agile software
 -work with operatioons team to make sure the systems are running smoothly
 -A devOps engineer must have a deep understanding of both development and operations processes and also technical knowledge.
 
-###How does DevOps benefit a business
+### How does DevOps benefit a business
 -Can bring consistent improvements in systems qualities
 -better quality projects completed
 -reduces costs
