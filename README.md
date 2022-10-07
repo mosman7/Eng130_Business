@@ -11,6 +11,7 @@
 - Increases product quality
 - Increases customer satisfaction
 - Increased adaptability
+
 ![](Images/Agile.jfif)
 
 ### What is Scrum?
