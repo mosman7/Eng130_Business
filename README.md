@@ -42,8 +42,18 @@ DevOps is complementary with Agile software
 
 ###How does DevOps benefit a business
 -Can bring consistent improvements in systems qualities
+-better quality projects completed
+-reduces costs
+-increase in customer satisfaction
+-improved collaboration between teams
 
 ### How to make a good elevator pitch
+Your elevator pitch should be:
+-Brief - no more than 90 seconds
+-Mention your goals
+-Speak to the audience - look at the camera
+-Be persuasive - use hand gestures and smile
+-PRACTICE
 
 
 ###SDLC DevOps lifecycle
