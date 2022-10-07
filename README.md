@@ -11,7 +11,7 @@
 -Increases product quality
 -Increases customer satisfaction
 -Increased adaptability
-![](Images/Agile.png)
+![](Images/Agile.jfif)
 
 ### What is Scrum?
 -A framework that aids multiple teams to work together to deliver complex solutions
