@@ -18,3 +18,32 @@
 -Quicker releases of useable products
 -Higher productivity
 -Lower costs
+
+### How to install Python
+Head to https://www.python.org/downloads/ and download the latest save the application locally.
+
+### How to install PyCharm
+Head to https://www.jetbrains.com/pycharm/download/#section=windows and download the relevant version for your OS
+
+
+How to add a variable to your path
+
+
+###What is DevOps
+DevOps is a set of practices that combines software development and IT operations. 
+It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. 
+DevOps is complementary with Agile software
+
+### The role of a devops engineer
+-A devops engineer is responsible for the smooth operation of a companies IT infrastrructure.
+-They work with developers to deploy and manage changes in code
+-work with operatioons team to make sure the systems are running smoothly
+-A devOps engineer must have a deep understanding of both development and operations processes and also technical knowledge.
+
+###How does DevOps benefit a business
+-Can bring consistent improvements in systems qualities
+
+### How to make a good elevator pitch
+
+
+###SDLC DevOps lifecycle
