@@ -18,6 +18,7 @@
 -Quicker releases of useable products
 -Higher productivity
 -Lower costs
+![](images/scrum.png)
 
 ### How to install Python
 Head to https://www.python.org/downloads/ and download the latest save the application locally.
