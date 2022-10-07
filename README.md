@@ -19,6 +19,7 @@
 -Higher productivity
 -Lower costs
 ![](images/scrum.png)
+Images/Scrum.png
 
 ### How to install Python
 Head to https://www.python.org/downloads/ and download the latest save the application locally.
