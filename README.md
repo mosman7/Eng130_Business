@@ -62,7 +62,8 @@ Your elevator pitch should be:
 ![](Images/SDLC.png)
 
 
-#Week 2 - Python
+# Week 2 - Python
+
 #print("hello world")
 #Variables
 #- Used to store any data / user date
