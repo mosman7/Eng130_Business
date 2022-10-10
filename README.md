@@ -64,6 +64,7 @@ Your elevator pitch should be:
 
 # Week 2 - Python
 
+
 #print("hello world")
 #Variables
 #- Used to store any data / user date
@@ -84,4 +85,14 @@ Course_name = "Eng130"
 uk_resident = bool
 
 
-print(first_name, last_name)
+print("Hello, What is your name")
+first_name = input()
+print("Please enter your last name")
+last_name = input()
+print("Nice to meet you", first_name, last_name)
+
+print("What is your date of birth")
+DOB = input()
+
+print("Are you a UK resident?")
+uk_resident = input()
