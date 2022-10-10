@@ -60,3 +60,27 @@ Your elevator pitch should be:
 
 ### SDLC 
 ![](Images/SDLC.png)
+
+
+#Week 2 - Python
+#print("hello world")
+#Variables
+#- Used to store any data / user date
+#-anything in quotation marks is a string
+#-any number is a integer
+#-yes or no is Boolean
+#-if you have a number with a decimal it is a float
+
+#How to find out the type of data stored
+#-type()
+#-print(type(variable name))
+
+
+first_name = "Mohamed"
+last_name = "Osman"
+DOB = "05/05/1998"
+Course_name = "Eng130"
+uk_resident = bool
+
+
+print(first_name, last_name)
